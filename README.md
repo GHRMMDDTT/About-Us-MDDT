@@ -14,8 +14,8 @@ MDDT (also called **M*oderation* D*eveloper* D*esign* T*eam***) only does projec
 
 ## Projects that we are active (doing):
 
-- Material Components: https://github.com/GHMMDDTT/Material-Components
-- Java Components: https://github.com/GHMMDDTT/Java-Components
-- Cappuccino Language: https://github.com/GHMMDDTT/Cappuccino-Language
+- Components Design: https://github.com/GHMMDDTT/Components-Design
+- ATRLF: https://github.com/GHMMDDTT/ATELF
+- ATRLF-Java: https://github.com/GHMMDDTT/ATRLF-Java
 
 # Sponsored by: GHRMMDDTT.
